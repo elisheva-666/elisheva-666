@@ -16,6 +16,8 @@
 
 <p align="center">
   Currently building an end-to-end <strong>Semantic Layer platform</strong> for real-time, large-scale data analysis — a JSON-based metadata engine, dynamic SQL generation, and a database-agnostic architecture spanning BigQuery, SQL Server, PostgreSQL & SQLite.
+  <br/>
+  📄 <a href="./case-studies/semantic-layer-platform.md">Read the architecture case study</a>
 </p>
 
 ---

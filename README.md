@@ -56,8 +56,10 @@
 | [Ai-agent](https://github.com/elisheva-666/Ai-agent) | AI agents built with Python: job-hunter bot, CLI task manager, and a RAG pipeline using LlamaIndex | Python · LlamaIndex · RAG |
 | [ecommerce-react-node](https://github.com/elisheva-666/ecommerce-react-node) | Full-stack e-commerce app — shopping cart, product catalog & auth, with a Node.js REST API and React frontend | React · Node.js · REST API |
 | [chinese-auction-system](https://github.com/elisheva-666/chinese-auction-system) | Auction management system with full business logic, built with C# and .NET | C# · .NET |
-| [AI-Architecture](https://github.com/elisheva-666/AI-Architecture) | AI system architecture and design patterns implementation in C# | C# · Design Patterns |
-| [KungFuChess](https://github.com/elisheva-666/KungFuChess) | Real-time browser chess variant where both players move simultaneously — no waiting for turns | JavaScript · HTML |
+| [AI-Architecture](https://github.com/elisheva-666/AI-Architecture) | Event-driven architecture experiment — extends a C#/.NET Web API with Kafka producer/consumer messaging | C# · .NET · Kafka |
+| [KungFuChess](https://github.com/elisheva-666/KungFuChess) | Real-time browser chess variant where both players move simultaneously — no waiting for turns | Java · JavaScript |
+
+**More projects:** [task-management-django](https://github.com/elisheva-666/task-management-django) — Django team task management platform with role-based access control and an admin dashboard.
 
 ---
 
